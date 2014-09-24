@@ -1,0 +1,39 @@
+.floating{margin: 0 auto;
+	padding: 10px;
+	border-style: solid;
+	border-color: black;
+	width: 50px;
+	margin: 10px;
+	display: inline-block;
+
+}
+	
+
+body{
+	background-color: lightblue;
+}
+
+p{ border: 2px solid gray;
+	margin: 50px;
+	font-family: sans-serif; 
+	padding: 50px;}
+
+.container{
+	padding: 10px 10px 10px 10px;
+	margin: 0 auto;
+	width:900px;
+}
+
+.absolute{
+	float: left;
+	border-color: green;
+	
+}
+.fixed{
+		position: fixed;
+		float: 
+}
+
+.relative{float: left;
+		position: relative;
+}

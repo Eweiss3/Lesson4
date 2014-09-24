@@ -1,0 +1,96 @@
+body{ background-image: url(../images/wood.jpg);
+	opacity:.80;
+	padding: 0; 
+	margin: 0; 
+}
+
+
+
+.wrapper { 
+margin: 0 auto;
+ width: 922px;
+}
+
+.header {
+ color: #333;
+ width: 900px;
+ padding: 10px;
+ border: 5px solid;
+ border-color: gray;
+ height: 300px;
+ margin: -10px 0px 80px 145px;
+ background-image: url(../images/grass.jpg);
+ background-size: 10px auto 0px auto;
+ background-repeat: no-repeat;
+ border-radius: .5em;
+ opacity: .80;
+}
+
+h1{
+	text-align: center;
+	color: rgb(85, 0, 0);
+	font-size: 56px;
+	font-weight: 1000;
+	font-style: italic;
+	font-family: georgia;
+
+}
+
+a{
+ width: 900px;
+ color: white;
+ text-align: center;
+ text-decoration: none;
+ font-family: sans-serif;
+ display: inline-block;
+ font-size: 22px;
+ padding: 10px;
+ border: 5px solid;
+ margin: 40px auto 40px auto;
+ background-color: rgb(61,91,152);
+ border-color: gray;
+ border-radius: .5em;
+}
+
+a:hover{
+	text-decoration: underline;
+	font-weight: 900;
+}
+
+#interests { 
+ color: #333;
+ border: 5px solid;
+ border-color: gray;
+ background:#F6F0E0;
+ margin: 0px 115px 100px 150px;;
+ padding: 10px;
+ height: 350px;
+ width: 200px;
+ float: left;
+ border-radius: .5em;
+}
+
+#about{ 
+ color: #333;
+ border: 5px solid;
+ border-color: gray;
+ background:#F6F0E0;
+ margin: 0px 115px 100px 0px;;
+ padding: 10px;
+ height: 350px;
+ width: 200px;
+ float: left;
+ border-radius: .5em;
+}	
+#cool{ 
+ color: #333;
+ border: 5px solid;
+ border-color: gray;
+ background:#F6F0E0;
+ margin: 0px 70px 100px 0px;;
+ padding: 10px;
+ height: 350px;
+ width: 200px;
+ float: left;
+ border-radius: .5em;
+}

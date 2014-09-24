@@ -1,0 +1,25 @@
+h1{font-family: sans-serif;
+color: green;
+background: orange;
+}
+Body{/*background: blue;*/
+	background-image: url(../images/puppy.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.page{
+	border: 5px solid green;
+	max-width: 600px;
+	margin: 0 auto;
+	width:80%;
+}
+
+#unique-tag{
+	background: url(../images/puppy.jpg);
+	background-size: 100px;
+	background-repeat: no-repeat;
+}
+.first-class{color: white;
+}
+
